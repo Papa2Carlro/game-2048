@@ -1,0 +1,23 @@
+{
+  "name": "game-2080",
+  "version": "1.0.0",
+  "description": "Game 2048",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Papa2Carlro/game-2048.git"
+  },
+  "author": "Max <priymak615@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Papa2Carlro/game-2048/issues"
+  },
+  "homepage": "https://github.com/Papa2Carlro/game-2048#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
